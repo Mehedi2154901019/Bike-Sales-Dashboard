@@ -54,7 +54,7 @@ The Excel file contains **four structured sheets**:
 
 ---
 
-## 🙌 Acknowledgments
+## Acknowledgments
 
 This project was a personal initiative to push the boundaries of what can be done **solely with Excel**, and it turned out to be a great learning experience in understanding the **core of data analytics** and storytelling.
 
